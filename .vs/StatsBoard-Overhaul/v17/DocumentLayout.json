@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{070755EB-9392-4E67-B32C-472CC40D0395}|StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj|c:\\users\\ashto\\downloads\\statsboard-overhaul\\statsboard-overhaul\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070755EB-9392-4E67-B32C-472CC40D0395}|StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj|solutionrelative:statsboard-overhaul\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070755EB-9392-4E67-B32C-472CC40D0395}|StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj|c:\\users\\ashto\\downloads\\statsboard-overhaul\\statsboard-overhaul\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070755EB-9392-4E67-B32C-472CC40D0395}|StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj|solutionrelative:statsboard-overhaul\\plugininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070755EB-9392-4E67-B32C-472CC40D0395}|StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj|c:\\users\\ashto\\downloads\\statsboard-overhaul\\statsboard-overhaul\\statsboard-overhaul.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{070755EB-9392-4E67-B32C-472CC40D0395}|StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj|solutionrelative:statsboard-overhaul\\statsboard-overhaul.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070755EB-9392-4E67-B32C-472CC40D0395}|StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj|c:\\users\\ashto\\downloads\\statsboard-overhaul\\statsboard-overhaul\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070755EB-9392-4E67-B32C-472CC40D0395}|StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj|solutionrelative:statsboard-overhaul\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PluginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\StatsBoard-Overhaul\\PluginInfo.cs",
+              "RelativeDocumentMoniker": "StatsBoard-Overhaul\\PluginInfo.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\StatsBoard-Overhaul\\PluginInfo.cs",
+              "RelativeToolTip": "StatsBoard-Overhaul\\PluginInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:01:53.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatsBoard-Overhaul",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj",
+              "RelativeDocumentMoniker": "StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj",
+              "RelativeToolTip": "StatsBoard-Overhaul\\StatsBoard-Overhaul.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T18:00:43.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HarmonyPatches.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\StatsBoard-Overhaul\\HarmonyPatches.cs",
+              "RelativeDocumentMoniker": "StatsBoard-Overhaul\\HarmonyPatches.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\StatsBoard-Overhaul\\HarmonyPatches.cs",
+              "RelativeToolTip": "StatsBoard-Overhaul\\HarmonyPatches.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:00:37.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\StatsBoard-Overhaul\\Plugin.cs",
+              "RelativeDocumentMoniker": "StatsBoard-Overhaul\\Plugin.cs",
+              "ToolTip": "C:\\Users\\Ashto\\Downloads\\StatsBoard-Overhaul\\StatsBoard-Overhaul\\Plugin.cs",
+              "RelativeToolTip": "StatsBoard-Overhaul\\Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:53:56.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
