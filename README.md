@@ -2,9 +2,19 @@
 
 This StatsBoard-Overhaul Displays The Following Infomation:
 
-## Tag Stats:
-- Saved Data: How Many Tags And How Many Times You Got Tagged. (LIFETIME)
-- Session Data: How Many Tags And How Many Times You Got Tagged. (This Gets Put To 0 Every Session)
+## GamePlay Stats:
+- TAG Saved Data: How Many Tags And How Many Times You Got Tagged. (LIFETIME)
+- TAG Session Data: How Many Tags And How Many Times You Got Tagged. (This Gets Put To 0 Every Session)
+- FPS (Frames Per Second): This Is Shown On The Board!
+
+## Custom Uploads:
+- We Are Going To Allow A "Upload Tag Stats" Button. This Can Be Used Once Every 15 Mins, The Button Will Allow People To Upload How Many Times They Have Been Tagged And How Many People They Have Tagged In The Following Format:
+
+PLAYERNAME12 : UPLOAD
+(SESSION TAGS: "NUMBER")
+(LIFETIME TAGS: "NUMBER")
+(SESSION PLAYTIME: "NUMBER")
+(LIFETIME PLAYTIME: "NUMBER")
 
 ## Colour:
 - Hex Colour Code Of Your Player. (R,G,B)
