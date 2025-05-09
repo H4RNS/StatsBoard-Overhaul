@@ -15,7 +15,7 @@ This StatsBoard-Overhaul Displays The Following Infomation:
    - Profile Picture Set It To Whatever You Want! (.png Files ONLY)
  
 # How To Use Profile Pictures:
-  (FOLDER WILL BE INCLUDED WITH THE FILE ON DOWNLOAD PLACE BOTH IN PLUGINS)
+(FOLDER WILL BE INCLUDED WITH THE FILE ON DOWNLOAD PLACE BOTH IN PLUGINS)
 - Go To Your "StatsBoard-Overhaul-PFP" Folder Located In The Same Place You Put The DLL (Main File).
 - Inside That Folder Add As Many .png's As You Want. Use The Cycle On The Board To Switch Between Them.
 
@@ -25,4 +25,3 @@ This Version Is Made By: E14O & H4RNS, To Contact Us Join The Discord: https://d
 
 # LEGAL:
 - This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2021 Another Axiom LLC.
-- 
