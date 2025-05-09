@@ -24,8 +24,8 @@ This StatsBoard-Overhaul Displays The Following Infomation:
 - Inside That Folder Add As Many .png's As You Want. Use The Cycle On The Board To Switch Between Them.
 
 # Creators:
-Credits To, OK-KT For The Origanal Mod That Was Created Ages Ago.
+Credits To, OK-KT For The Original Mod That Was Created Ages Ago.
 This Version Is Made By: E14O & H4RNS, To Contact Us Join The Discord: https://discord.gg/V9DsqANGPG!
 
-# LEGAL:
+# Legal Notice From Another Axiom:
 - This product is not affiliated with Gorilla Tag or Another Axiom LLC and is not endorsed or otherwise sponsored by Another Axiom LLC. Portions of the materials contained herein are property of Another Axiom LLC. © 2021 Another Axiom LLC.
