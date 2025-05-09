@@ -2,21 +2,21 @@
 
 This StatsBoard-Overhaul Displays The Following Infomation:
 
-- Tag Stats:
-Saved Data: How Many Tags And How Many Times You Got Tagged. (LIFETIME)
-Session Data: How Many Tags And How Many Times You Got Tagged. (This Gets Put To 0 Every Session)
+## Tag Stats:
+- Saved Data: How Many Tags And How Many Times You Got Tagged. (LIFETIME)
+- Session Data: How Many Tags And How Many Times You Got Tagged. (This Gets Put To 0 Every Session)
 
-- Colour:
-Hex Colour Code Of Your Player. (R,G,B)
+## Colour:
+- Hex Colour Code Of Your Player. (R,G,B)
 
-- Time Stats:
-Saved Data: Time Played (LIFETIME)
-Session Data: Time Played (SESSION)
+## Time Stats:
+- Saved Data: Time Played (LIFETIME)
+- Session Data: Time Played (SESSION)
 
-- Custom:
-Time Stats: Displayed In (Hours/Mins) or (Mins) or (Seconds)
-Clear The Following: (Time LIFETIME) or (Time SESSION) or (Tag LIFETIME) or (Tag SESSION)
-Profile Picture Set It To Whatever You Want! (.png Files ONLY)
+## Custom:
+- Time Stats: Displayed In (Hours/Mins) or (Mins) or (Seconds)
+- Clear The Following: (Time LIFETIME) or (Time SESSION) or (Tag LIFETIME) or (Tag SESSION)
+- Profile Picture Set It To Whatever You Want! (.png Files ONLY)
  
 # How To Use Profile Pictures:
 (FOLDER WILL BE INCLUDED WITH THE FILE ON DOWNLOAD PLACE BOTH IN PLUGINS)
